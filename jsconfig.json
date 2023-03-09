@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        //엄격하게 코드를 확인함
+        "strict": true
+    },
+    "include": [
+        //src안에 있는 모든것
+        "src/**/*"
+    ]
+}
